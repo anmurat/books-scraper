@@ -58,3 +58,4 @@ Most expensive: £54.89 — Tipping the Velvet
 ```
 
 ## Output
+![Analysis](analysis.png)
